@@ -1,0 +1,8 @@
+.project
+test-maven-release-impl/.classpath
+test-maven-release-impl/target
+test-maven-release-impl/.settings
+test-mvn-release-api/.classpath
+test-mvn-release-api/target
+test-mvn-release-api/.settings
+.settings
