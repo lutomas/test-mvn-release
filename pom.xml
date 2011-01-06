@@ -96,7 +96,7 @@
 		</plugins>
 	</build>
 
-	<profiles>
+	<!--<profiles>
 		<profile>
 			<id>release-assemble-artifacts</id>
 			<activation>
@@ -132,10 +132,10 @@
 						</configuration>
 						<executions>
 							<execution>
-								<id>make-assembly</id> <!-- this is used for inheritance merges -->
-								<phase>package</phase> <!-- append to the packaging phase. -->
+								<id>make-assembly</id>  this is used for inheritance merges 
+								<phase>package</phase>  append to the packaging phase. 
 								<goals>
-									<goal>assembly</goal> <!-- goals == mojos -->
+									<goal>assembly</goal>  goals == mojos 
 								</goals>
 							</execution>
 						</executions>
@@ -143,7 +143,7 @@
 				</plugins>
 			</build>
 		</profile>
-	</profiles>
+	</profiles>-->
 
 	<dependencyManagement>
 
@@ -175,6 +175,6 @@
 	</dependencyManagement>
 	<modules>
 		<module>test-mvn-release-api</module>
-		<module>test-maven-release-impl</module>
+		<module>test-mvn-release-impl</module>
 	</modules>
 </project>
