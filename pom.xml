@@ -3,7 +3,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.tlu</groupId>
-	<artifactId>test-maven-release</artifactId>
+	<artifactId>test-mvn-release</artifactId>
 	<packaging>pom</packaging>
 	<version>1.0.0-SNAPSHOT</version>
 	<name>Test Project pom1</name>
