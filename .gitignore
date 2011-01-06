@@ -1,8 +1,8 @@
 .project
-test-mvn-release-impl/.classpath
-test-mvn-release-impl/target
-test-mvn-release-impl/.settings
-test-mvn-release-api/.classpath
-test-mvn-release-api/target
-test-mvn-release-api/.settings
 .settings
+test-mvn-release-impl/.classpath
+test-mvn-release-impl/.settings
+test-mvn-release-impl/target
+test-mvn-release-api/.classpath
+test-mvn-release-api/.settings
+test-mvn-release-api/target
